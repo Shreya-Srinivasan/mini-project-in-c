@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
-#include<time.h>
 #include<stdlib.h>
+#include<time.h>
 
 //Account structure
 typedef struct account_details {
